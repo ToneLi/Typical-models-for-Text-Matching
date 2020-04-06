@@ -1,7 +1,7 @@
 # Typical-models-for-Text-Matching
 I want to summany some typical models for text matching, just for my study
 # Model List
-|Model| year | institutes|
+|model| year | institutes|
 | ------ | ------ | ------ |
 |ABCNN| 2015| LMU Munich, Germany |
 |DSSM| 2013| Microsoft |
