@@ -1,5 +1,5 @@
 # Typical-models-for-Text-Matching
-I want to summany some typical models for text matching, just for my study
+I want to summany some typical models for text matching, just for my study. I will continue updating this project.
 # Model List
 |model| year | institutes|
 | ------ | ------ | ------ |
