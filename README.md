@@ -15,7 +15,7 @@ I want to summany some typical models for text matching, just for my study
 |MV-LSTM|2016| Chinese Academy of Sciences |	
 |CONV-KNRM|2018| Carnegie Mellon University |	
 |K-NRM|2017| Carnegie Mellon University |	
-# ToolKit
+# Other public ToolKit
 [MatchZoo](https://github.com/NTMC-Community/MatchZoo)
 # Dataset
 The public dataset [MSRP---Microsoft Research Paraphrase Corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52398) and [WikiQA_Corpus](https://pan.baidu.com/s/12jp1Xuh8lbKUMjtfbY3TGg), code: 8s3j.
