@@ -3,7 +3,7 @@ I want to summany some typical models for text matching, just for my study. I wi
 # Model List
 |model| year | institutes|
 | ------ | ------ | ------ |
-|(ABCNN)[https://github.com/galsang/ABCNN]| 2015| LMU Munich, Germany |
+|[ABCNN](https://github.com/galsang/ABCNN)| 2015| LMU Munich, Germany |
 |DSSM| 2013| Microsoft |
 |CDSSM| 2014| Microsoft|
 |ARC-I| 2015| Harbin Institute of Technology|
